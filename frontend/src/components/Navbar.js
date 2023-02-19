@@ -6,15 +6,15 @@ function Navbar() {
     return (
         <nav className="navbar">
             <ul>
-                <li>
+                <li>Ayuda
                 </li>
-                <li>
+                <li> Nosotros
                 </li>
-                <li>
+                <li> Cuenta
                 </li>
-                <li>
+                <li> Carrito
                 </li>
-                <li>
+                <li> Ayuda
                 </li>
             </ul>
         </nav>
